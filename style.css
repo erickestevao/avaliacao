@@ -1,0 +1,17 @@
+body{
+    background: palevioletred(100, 150, 150)
+}
+h1{
+    font-size: 60px;
+    color: rgb(247, 161, 255);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: aquamarine(180, 180, 180);
+    text-align: justify;
+
+}
+
+
+
