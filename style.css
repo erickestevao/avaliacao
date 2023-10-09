@@ -3,7 +3,7 @@ body{
 }
 h1{
     font-size: 60px;
-    color: rgb(247, 161, 255);
+    color: rgb(254, 218, 255);
     text-align: center;
 }
 p{
@@ -12,6 +12,8 @@ p{
     text-align: justify;
 
 }
-
+  body{
+     background-color: deeppink;
+  }
 
 
