@@ -1,9 +1,9 @@
 body{
-    background: palevioletred(100, 150, 150)
+    background-color: rgb(120, 159, 243);
 }
 h1{
     font-size: 60px;
-    color: rgb(254, 218, 255);
+    color: rgb(0, 26, 255);
     text-align: center;
 }
 p{
@@ -12,8 +12,11 @@ p{
     text-align: justify;
 
 }
-  body{
-     background-color: deeppink;
-  }
+.cabecalho{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
 
-
+.logochoche{
+    width: 60px;
+}
